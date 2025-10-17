@@ -1,4 +1,4 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shijan_Pias)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shijan-pias-222b39315//)  
+
 
 #Hi there 👋, I'm Shijan Pias
 #### Full Stack Developer
@@ -8,6 +8,8 @@ Web Developer & Tech Enthusiast | Coffee-fueled coder ☕ | I build web apps tha
 
 
 Skills:  REACT / JS / HTML / CSS / DaisyUI / Tailwind / Node.js / Express.js / MongoDB / Firebase / 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shijan_Pias)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shijan-pias-222b39315//)  
 
 - 🔭 I’m currently working on own investment 
 - 🌱 I’m currently learning JavaScript 
