@@ -3,9 +3,9 @@
 <h3 align="center">
 ✨ A passionate Full Stack Developer | MERN Stack Learner from Bangladesh 🌍
 </h3>
-<p align="center">
-  <img src="assets/banner1.png" alt="Banner" style="border-radius:20px;" />
-</p>
+
+
+![Banner](assets/banner1.png)
 
 
 
