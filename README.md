@@ -49,7 +49,7 @@
 <h3>🌟 About Me 🌟</h3>
 
 <p>
-Hello! I'm <strong>Shijan Pias</strong>, a passionate Computer Science student and aspiring Full-Stack Developer 💻 from Bangladesh 🌍. My journey into technology began with curiosity and grew into a deep interest in building real-world web applications.
+Hello! I'm <strong>Shijan Pias</strong>, a passionate Computer Science student and aspiring Full-Stack Developer 💻 from Bangladesh. My journey into technology began with curiosity and grew into a deep interest in building real-world web applications.
 </p>
 
 <p>
