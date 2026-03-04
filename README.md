@@ -7,8 +7,14 @@
 
 ![Banner](assets/banner1.png)
 </br>
+<hr>
+
 </br>
+
+#### 🌱 Currently Learning
 </br>
+####💬 Ask me about
+##### MERN Stack, Next.js, Data Structures & Algorithms
 
 
 
