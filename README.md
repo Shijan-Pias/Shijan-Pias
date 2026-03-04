@@ -48,6 +48,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Shijan-Pias&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Profilegif](assets/githubgif.gif)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
