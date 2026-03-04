@@ -14,17 +14,17 @@
 <p>Deepening my knowledge in MERN Stack and improving my Data Structures & Algorithms skills.</p>
 
 <h3>👨‍💻 Projects</h3>
-<h4>🚀 Check out my <a href="https://my-portofolio-nu-two.vercel.app/">Portfolio</a></h4>
+<p>🚀 Check out my <a href="https://my-portofolio-nu-two.vercel.app/">Portfolio</a></p>
 
 <h3>💬 Ask Me About</h3>
-<h4>MERN Stack, React, JavaScript and DSA.</h4>
+<p>MERN Stack, React, JavaScript and DSA.</p>
 
 <h3>📫 Get in Touch</h3>
-<h4> 📧 shijanpias3@gmail.com <br>
-🔗 <a href="https://www.linkedin.com/in/shijan-pias/">LinkedIn</a></h4>
+<p> 📧 shijanpias3@gmail.com <br>
+🔗 <a href="https://www.linkedin.com/in/shijan-pias/">LinkedIn</a></p>
 
 <h3>📄 My Resume</h3>
-<h4>📝 <a href="resume.pdf">View Resume</a></h4>
+<p>📝 <a href="resume.pdf">View Resume</a></p>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shijanpias) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shijan.pias.2025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pias._sp10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shijan-pias) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShijanPias) 
