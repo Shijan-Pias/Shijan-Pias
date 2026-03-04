@@ -42,6 +42,38 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+<h3>🌟 About Me 🌟</h3>
+
+<p>
+Hello! I'm <strong>Shijan Pias</strong>, a passionate Computer Science student and aspiring Full-Stack Developer 💻 from Bangladesh 🌍. My journey into technology began with curiosity and grew into a deep interest in building real-world web applications.
+</p>
+
+<p>
+Currently, I’m focused on mastering the <strong>MERN Stack</strong> (MongoDB, Express.js, React, Node.js) and strengthening my foundation in <strong>Data Structures & Algorithms</strong> to become a problem-solving driven developer. I enjoy turning ideas into functional, clean, and user-friendly web experiences.
+</p>
+
+<p>
+I have worked on multiple academic and personal projects, collaborating in team environments where I learned the importance of communication, structured planning, and writing maintainable code. My core strengths include React, JavaScript, Tailwind CSS, and backend development with Node.js and Express.
+</p>
+
+<p>
+Beyond coding, I actively improve my logical thinking through DSA practice and continuously explore modern development trends to stay industry-ready. My goal is simple — build impactful products, grow consistently, and become a strong Full-Stack Engineer. 🚀
+</p>
+
+<h4>🎯 Current Focus</h4>
+<p>
+✔️ Advanced MERN Stack Development <br>
+✔️ Data Structures & Algorithms <br>
+✔️ Building scalable and production-ready web projects
+</p>
+
+<h4>🤝 Let's Connect</h4>
+<p>
+I’m always open to collaboration, learning opportunities, and meaningful tech discussions. Let’s build something amazing together! 🚀
+</p>
+
+![Profilegif](assets/githubgif.gif)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shijan-Pias&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
