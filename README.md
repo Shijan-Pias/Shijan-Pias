@@ -11,10 +11,31 @@
 
 </br>
 
-#### 🌱 Currently Learning
-</br>
-####💬 Ask me about
-##### MERN Stack, Next.js, Data Structures & Algorithms
+<h4>🌱 Currently Learning</h4>
+<h5>
+Deepening my knowledge in MERN Stack and improving my Data Structures & Algorithms skills.
+</h5>
+
+<h4>👨‍💻 Projects</h4>
+<h5>
+🚀 Check out my <a href="https://your-portfolio-link.com">Portfolio</a>
+</h5>
+
+<h4>💬 Ask Me About</h4>
+<h5>
+MERN Stack, React, JavaScript, Tailwind CSS, and DSA.
+</h5>
+
+<h4>📫 Get in Touch</h4>
+<h5>
+📧 your-email@example.com <br>
+🔗 <a href="https://your-linkedin-link.com">LinkedIn</a>
+</h5>
+
+<h4>📄 My Resume</h4>
+<h5>
+📝 <a href="resume.pdf">View Resume</a>
+</h5>
 
 
 
