@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+![Banner](assets/banner.jfif)
 
 
 ### Hi there 👋, I'm Shijan Pias
