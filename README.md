@@ -8,58 +8,23 @@
 ![Banner](assets/banner1.png)
 </br>
 <hr>
-
 </br>
 
 <h3>🌱 Currently Learning</h3>
-<h4>
-Deepening my knowledge in MERN Stack and improving my Data Structures & Algorithms skills.
-</h4>
+<h4>Deepening my knowledge in MERN Stack and improving my Data Structures & Algorithms skills.</h4>
 
 <h3>👨‍💻 Projects</h3>
-<h4>
-🚀 Check out my <a href="https://my-portofolio-nu-two.vercel.app/">Portfolio</a>
-</h4>
+<h4>🚀 Check out my <a href="https://my-portofolio-nu-two.vercel.app/">Portfolio</a></h4>
 
 <h3>💬 Ask Me About</h3>
-<h4>
-MERN Stack, React, JavaScript and DSA.
-</h4>
+<h4>MERN Stack, React, JavaScript and DSA.</h4>
 
 <h3>📫 Get in Touch</h3>
-<h4>
-📧 shijanpias3@gmail.com <br>
-🔗 <a href="https://www.linkedin.com/in/shijan-pias/">LinkedIn</a>
-</h4>
+<h4> 📧 shijanpias3@gmail.com <br>
+🔗 <a href="https://www.linkedin.com/in/shijan-pias/">LinkedIn</a></h4>
 
 <h3>📄 My Resume</h3>
-<h4>
-📝 <a href="resume.pdf">View Resume</a>
-</h4>
-
-
-
-#### Full Stack Developer
-![Full Stack Developer](https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/565073643_818816387506803_1478558974714312619_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGkB1m-6XFGd1h0-a6RnXT7TDN8tFazo2VMM3y0VrOjZcIFKQlqnPwWHzCLK-RLrYn-xSE_xnNLzEKFDBIIpTvE&_nc_ohc=vqPiXYqqDx4Q7kNvwFi8jEa&_nc_oc=AdkxF2yTirW4r3QpWdp4yRLFQc2FSL1EaXayYw6wXvrF78LnTXaFYe6atHlF4u9ydq5a5PpyyqXRWcKehVVIvgxy&_nc_zt=23&_nc_ht=scontent-sin6-2.xx&_nc_gid=sAh9IJnnuy3PRYJGOSbYzw&oh=00_AffJdmIdM4PKl5i4XU-O7mvhTO06bGiKawmtkWN1dsO3aA&oe=68F83C8A)
-
-Web Developer & Tech Enthusiast | Coffee-fueled coder ☕ | I build web apps that make life easier and share my learning journey on GitHub. Always open to collaboration!
-
-
-Skills:  REACT / JS / HTML / CSS / DaisyUI / Tailwind / Node.js / Express.js / MongoDB / Firebase / 
-
-- 🔭 I’m currently working on own investment 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web developer 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shijan_Pias)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shijan-pias-222b39315//)  
-
-# Hi, I'm Shijan Pias 👋
-**Full Stack Web Developer | Passionate about building modern web apps**
-
----
-
+<h4>📝 <a href="resume.pdf">View Resume</a></h4>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shijanpias) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shijan.pias.2025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pias._sp10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shijan-pias) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShijanPias) 
