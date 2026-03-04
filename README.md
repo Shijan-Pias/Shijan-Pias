@@ -3,10 +3,9 @@
 <h3 align="center">
 ✨ A passionate Full Stack Developer | MERN Stack Learner from Bangladesh 🌍
 </h3>
-
-<image class="rounded-xl">
-  ![Banner](assets/banner1.png)
-</image>
+<p align="center">
+  <img src="assets/banner1.png" alt="Banner" style="border-radius:20px;" />
+</p>
 
 
 
