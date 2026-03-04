@@ -11,7 +11,7 @@
 </br>
 
 <h3>🌱 Currently Learning</h3>
-<h4>Deepening my knowledge in MERN Stack and improving my Data Structures & Algorithms skills.</h4>
+<p>Deepening my knowledge in MERN Stack and improving my Data Structures & Algorithms skills.</p>
 
 <h3>👨‍💻 Projects</h3>
 <h4>🚀 Check out my <a href="https://my-portofolio-nu-two.vercel.app/">Portfolio</a></h4>
