@@ -11,31 +11,31 @@
 
 </br>
 
-<h4>🌱 Currently Learning</h4>
-<h5>
+<h3>🌱 Currently Learning</h3>
+<h4>
 Deepening my knowledge in MERN Stack and improving my Data Structures & Algorithms skills.
-</h5>
+</h4>
 
-<h4>👨‍💻 Projects</h4>
-<h5>
-🚀 Check out my <a href="https://your-portfolio-link.com">Portfolio</a>
-</h5>
+<h3>👨‍💻 Projects</h3>
+<h4>
+🚀 Check out my <a href="https://my-portofolio-nu-two.vercel.app/">Portfolio</a>
+</h4>
 
-<h4>💬 Ask Me About</h4>
-<h5>
-MERN Stack, React, JavaScript, Tailwind CSS, and DSA.
-</h5>
+<h3>💬 Ask Me About</h3>
+<h4>
+MERN Stack, React, JavaScript and DSA.
+</h4>
 
-<h4>📫 Get in Touch</h4>
-<h5>
-📧 your-email@example.com <br>
-🔗 <a href="https://your-linkedin-link.com">LinkedIn</a>
-</h5>
+<h3>📫 Get in Touch</h3>
+<h4>
+📧 shijanpias3@gmail.com <br>
+🔗 <a href="https://www.linkedin.com/in/shijan-pias/">LinkedIn</a>
+</h4>
 
-<h4>📄 My Resume</h4>
-<h5>
+<h3>📄 My Resume</h3>
+<h4>
 📝 <a href="resume.pdf">View Resume</a>
-</h5>
+</h4>
 
 
 
