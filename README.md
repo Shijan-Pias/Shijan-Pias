@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Shijan Pias</h2>
+<h1 align="center">Hi there 👋, I'm Shijan Pias</h1>
 
 <h3 align="center">
 ✨ A passionate Full Stack Developer | MERN Stack Learner from Bangladesh 🌍
