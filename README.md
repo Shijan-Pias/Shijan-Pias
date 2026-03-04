@@ -1,10 +1,10 @@
-                                                     ### Hey there! 👋 I'm Shijan Pias
-                               ### ✨ A passionate Full Stack Developer | MERN Stack Learner from Bangladesh 🌍
+##                                                       Hi there 👋, I'm Shijan Pias
+###                                ✨ A passionate Full Stack Developer | MERN Stack Learner from Bangladesh 🌍
 
 ![Banner](assets/banner1.png)
 
 
-### Hi there 👋, I'm Shijan Pias
+
 #### Full Stack Developer
 ![Full Stack Developer](https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/565073643_818816387506803_1478558974714312619_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGkB1m-6XFGd1h0-a6RnXT7TDN8tFazo2VMM3y0VrOjZcIFKQlqnPwWHzCLK-RLrYn-xSE_xnNLzEKFDBIIpTvE&_nc_ohc=vqPiXYqqDx4Q7kNvwFi8jEa&_nc_oc=AdkxF2yTirW4r3QpWdp4yRLFQc2FSL1EaXayYw6wXvrF78LnTXaFYe6atHlF4u9ydq5a5PpyyqXRWcKehVVIvgxy&_nc_zt=23&_nc_ht=scontent-sin6-2.xx&_nc_gid=sAh9IJnnuy3PRYJGOSbYzw&oh=00_AffJdmIdM4PKl5i4XU-O7mvhTO06bGiKawmtkWN1dsO3aA&oe=68F83C8A)
 
