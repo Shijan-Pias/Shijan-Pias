@@ -4,7 +4,9 @@
 ✨ A passionate Full Stack Developer | MERN Stack Learner from Bangladesh 🌍
 </h3>
 
-![Banner](assets/banner1.png)
+<image class="rounded-xl">
+  ![Banner](assets/banner1.png)
+</image>
 
 
 
