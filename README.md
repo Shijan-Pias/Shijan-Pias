@@ -1,5 +1,7 @@
-##                                                       Hi there 👋, I'm Shijan Pias
-###                                ✨ A passionate Full Stack Developer | MERN Stack Learner from Bangladesh 🌍
+<p align="center">
+## Hi there 👋, I'm Shijan Pias
+### ✨ A passionate Full Stack Developer | MERN Stack Learner from Bangladesh 🌍
+</p>
 
 ![Banner](assets/banner1.png)
 
